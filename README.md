@@ -11,6 +11,13 @@
 - Create Agen Dialogflow from [Console](https://dialogflow.cloud.google.com/) with Exist Project is ___Name-Project-Default___
 
 - Build
+  - Settings --> Framework & Language
+
+  - Enable Dart SDK
+
+  - Add Fluter SDK
+
+  ->Terminal: flutter pub get
 
 ## Getting Started
 

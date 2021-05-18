@@ -1,5 +1,16 @@
 # CHAT BOT - DIALOGFLOW
 
+# Tutorial
+
+- Create Service Account at [Service](https://console.cloud.google.com/iam-admin/serviceaccounts?project=clean-bindery-310117)
+
+- Type Service:  Name-Service@Name-Project-Default.iam.gserviceaccount.com
+
+- Open Service: -> Key -> Add Key Json -> Insert assets in project Flutter
+
+- Create Agen Dialogflow from [Console](https://dialogflow.cloud.google.com/) with Exist Project is Name-Project-Default
+
+- Build
 
 ## Getting Started
 
